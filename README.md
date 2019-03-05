@@ -1,2 +1,2 @@
 # Prueba
-Repositorio de prueba
+Repositorio de prueba para modificar el proyecto original en Java
